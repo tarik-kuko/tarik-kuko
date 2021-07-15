@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarik-kuko
-- 👀 I’m interested in manual testing and automaiton testing
+- 👀 I’m interested in manual testing and automation testing; currently introduced in basic of automation tools: Tosca, Katalon Studio, and Robot framework
 - 🌱 I’m currently learning basics of github, manual testing and automation testing
 - 💞️ I’m looking to collaborate on any kind of advice how to get better or to help at any project 
 - 📫 How to reach me : tarik.kuko@live.com, fb: Tarik Kuko
